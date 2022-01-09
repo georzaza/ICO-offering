@@ -1,9 +1,8 @@
-## UPDATE: I will not be updating this README.md anymore.
-See the contracts, they are Heavily Commented. Also see the `hand-testing` file until real tests are added (except for the queue tests)
-
 ## 1. What is this project? 
 In short, this project is about a Crowdsale on Ethereum blockchain. 
 It was developed as an answer to: https://github.com/Blockchain-for-Developers/sp18-midterm-p1
+See the contracts, they are Heavily Commented. 
+Also see the `hand-testing` file until real tests are added (except for the queue tests)
 
 
 ## 2. How to run
@@ -21,3 +20,6 @@ npm install
 
 #### Running Interactively
 Run `ganacle-cli` (or maybe ganache AppImage for a GUI), then `truffle console` and finally `deploy`. This will give you a Node terminal where you can run Javascript commands. A better way to run it is just `truffle develop` and then `deploy`.
+
+
+If you found this project useful in any way, give it a star.
