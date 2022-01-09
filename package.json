@@ -1,0 +1,33 @@
+{
+  "name": "crowdsale",
+  "version": "0.1.1",
+  "description": "solidity crowdsale example",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georzaza/ICO-offering.git"
+  },
+  "keywords": [
+    "crowdsale",
+    "solidity",
+    "contract",
+    "ERC20",
+    "token",
+    "ERC20interface"
+  ],
+  "author": "george zazanis",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/georzaza/ICO-offering/issues"
+  },
+  "homepage": "https://github.com/georzaza/ICO-offering#readme",
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
