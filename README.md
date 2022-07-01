@@ -20,6 +20,3 @@ npm install
 
 #### Running Interactively
 Run `ganacle-cli` (or maybe ganache AppImage for a GUI), then `truffle console` and finally `deploy`. This will give you a Node terminal where you can run Javascript commands. A better way to run it is just `truffle develop` and then `deploy`.
-
-
-If you found this project useful in any way, give it a star.
